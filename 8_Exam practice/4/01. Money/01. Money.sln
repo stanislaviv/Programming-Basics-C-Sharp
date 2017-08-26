@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Money", "01. Money\01. Money.csproj", "{3B94DE20-553D-450B-AC69-91FC660462F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Harvest", "..\Exam 17.06.2016\02.Harvest\02.Harvest.csproj", "{341E5D5B-79A9-4D1B-8D54-5AD9F22EA01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B94DE20-553D-450B-AC69-91FC660462F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B94DE20-553D-450B-AC69-91FC660462F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B94DE20-553D-450B-AC69-91FC660462F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B94DE20-553D-450B-AC69-91FC660462F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341E5D5B-79A9-4D1B-8D54-5AD9F22EA01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341E5D5B-79A9-4D1B-8D54-5AD9F22EA01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341E5D5B-79A9-4D1B-8D54-5AD9F22EA01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341E5D5B-79A9-4D1B-8D54-5AD9F22EA01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
